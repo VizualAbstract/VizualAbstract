@@ -1,4 +1,4 @@
-### Ughhh 😫
+### Ughhh, why are you here... 😫
 
 I'm a software engineer that specializes in feature develoment.
 
