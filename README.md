@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a software engineer that specializes in feature develoment.
+
+Buy me a ☕ at https://ko-fi.com/vizualabstract
 <!--
 **VizualAbstract/VizualAbstract** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
